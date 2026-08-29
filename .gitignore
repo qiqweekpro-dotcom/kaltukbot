@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+data/knowledge.json
+data/status.json
